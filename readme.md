@@ -14,9 +14,9 @@ This is a training project to test my ability to refactor code. I was given star
 
 ## Screenshots of Project
 
-![First Screenshot (assets/images/Screen Shot .png)
+![First Screenshot](https://github.com/jbdelapp/Horizeon/raw/master/assets/images/Screen%20Shot%20.png)
 
-![Second Screenshot](assets/images/Screen Shot 2.png)
+![Second Screenshot](https://github.com/jbdelapp/Horizeon/raw/master/assets/images/Screen%20Shot%202.png)
 
 ## Technologies (Built With)
 * HTML
