@@ -14,9 +14,9 @@ This is a training project to test my ability to refactor code. I was given star
 
 ## Screenshots of Project
 
-![(/assets/images/Screen Shot .png )]
+![First Screenshot (/assets/images/Screen Shot .png)
 
-! [(/assets/images/Screen Shot 2.png )]
+![Second Screenshot](/assets/images/Screen Shot 2.png)
 
 ## Technologies (Built With)
 * HTML
